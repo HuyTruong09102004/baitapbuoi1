@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Baitapdonhang\Baitapdonhang\bin\Debug\Baitapdonhang.exe.config
+C:\Users\ACER\source\repos\Baitapdonhang\Baitapdonhang\bin\Debug\Baitapdonhang.exe
+C:\Users\ACER\source\repos\Baitapdonhang\Baitapdonhang\bin\Debug\Baitapdonhang.pdb
+C:\Users\ACER\source\repos\Baitapdonhang\Baitapdonhang\obj\Debug\Baitapdonhang.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Baitapdonhang\Baitapdonhang\obj\Debug\Baitapdonhang.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Baitapdonhang\Baitapdonhang\obj\Debug\Baitapdonhang.exe
+C:\Users\ACER\source\repos\Baitapdonhang\Baitapdonhang\obj\Debug\Baitapdonhang.pdb
